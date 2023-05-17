@@ -1,0 +1,14 @@
+set relativenumber 
+set hidden
+set cursorline
+
+" Mouse settings for resizing windows
+set mouse=n
+set ttymouse=xterm2
+
+" Modifying tabs to 4 spaces
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/amalss/Documents/temp/vim_learn'
+let g:netrw_dirhist_8='/home/amalss/Documents/temp'
+let g:netrw_dirhist_7='/home/amalss/Documents/temp/vim_learn'
+let g:netrw_dirhist_6='/home/amalss/Documents/temp'
+let g:netrw_dirhist_5='/home/amalss/Documents/temp/vim_learn'
+let g:netrw_dirhist_4='/home/amalss/.vim'
+let g:netrw_dirhist_3='/home/amalss/.local/share/Trash/files'
+let g:netrw_dirhist_2='/home/amalss/.local/share/Trash/files/.ipynb_checkpoints'
+let g:netrw_dirhist_1='/home/amalss/.local/share/Trash/files'
