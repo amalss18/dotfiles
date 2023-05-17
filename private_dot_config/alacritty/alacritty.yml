@@ -1,0 +1,18 @@
+font:
+    normal:
+        family: MesloLGS NF
+        style: Regular
+
+    bold:
+        family: MesloLGS NF
+        style: Bold
+
+    italic:
+        family: MesloLGS NF
+        style: Italic
+
+window:
+    opacity: 0.79
+
+import:
+  -  ~/.config/alacritty/themes/themes/monokai_charcoal.yaml
